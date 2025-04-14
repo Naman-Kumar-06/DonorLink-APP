@@ -1,0 +1,10 @@
+streamlit
+pyrebase4
+firebase-admin
+requests
+requests_toolbelt
+sseclient
+gcloud
+oauth2client
+pycryptodome
+plotly
