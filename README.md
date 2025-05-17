@@ -2,7 +2,7 @@
 Cloud Based Blood Donation Management System
 Blood Bank Management System: Workflow and Logic Design
 System Architecture
-The Blood Bank Management System is a Streamlit-based web application that uses a mock Firebase/Firestore implementation for data storage and authentication. Here's a detailed breakdown of its components, workflow, and logic design:
+The Blood Bank Management System is a Streamlit-based web application that uses a Firestore implementation for data storage and authentication. Here's a detailed breakdown of its components, workflow, and logic design:
 
 1. Application Entry Point (app.py)
 The main application file (app.py) serves as the entry point that:
